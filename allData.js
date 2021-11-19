@@ -3205,7 +3205,9 @@ var allData = [
       "state": "North Carolina",
       "region": "Southeast",
       "city": "Blowing Rock",
-      "videos": [],
+      "videos": [
+          "aZFH7jK5tSU"
+      ],
       "position": {
           "lat": 36.173468638681165,
           "lng": -81.66401347733257
@@ -3305,7 +3307,9 @@ var allData = [
       "state": "North Carolina",
       "region": "Southeast",
       "city": "Mars Hill",
-      "videos": [],
+      "videos": [
+          " KVcoFyY10Lw"
+      ],
       "position": {
           "lat": 35.955567778449975,
           "lng": -82.50906230808697
@@ -5969,7 +5973,9 @@ var allData = [
       "state": "Colorado",
       "region": "Rocky Mountains",
       "city": "Keystone",
-      "videos": [],
+      "videos": [
+          "10qYNG8QG0A"
+      ],
       "position": {
           "lat": 39.642685273554704,
           "lng": -105.87192897305502
@@ -6108,7 +6114,9 @@ var allData = [
       "state": "Colorado",
       "region": "Rocky Mountains",
       "city": "Breckenridge",
-      "videos": [],
+      "videos": [
+          "-lO9XTQD2Qc"
+      ],
       "position": {
           "lat": 39.48049884182705,
           "lng": -106.06667208881282
@@ -6588,7 +6596,7 @@ var allData = [
       "region": "Rocky Mountains",
       "city": "Vail",
       "videos": [
-        "QQz5F65PKII"
+        "vTgYs_G7pxA"
       ],
       "position": {
           "lat": 39.60632623071879,
@@ -7717,7 +7725,9 @@ var allData = [
       "state": "Utah",
       "region": "Rocky Mountains",
       "city": "Park City",
-      "videos": [],
+      "videos": [
+          "PXVC7edFDZo"
+      ],
       "position": {
           "lat": 40.653755293189285,
           "lng": -111.50955073373208
@@ -8480,8 +8490,9 @@ var allData = [
       "region": "West Coast",
       "city": "South Lake Tahoe",
       "videos": [
-        "B8B5evOzIt4",
-        "DaN-PYGnEJI"
+        "DaN-PYGnEJI",
+        "9zsw_wGar4s",
+        "XreT0cwGNGE"
       ],
       "position": {
           "lat": 38.93578766770377,
@@ -8547,7 +8558,7 @@ var allData = [
       "region": "West Coast",
       "city": "Kirkwood",
       "videos": [
-        "B8B5evOzIt4"
+        "KF4SL2UrJ8s"
       ],
       "position": {
           "lat": 38.68491887730613,
