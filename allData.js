@@ -2757,7 +2757,9 @@ var allData = [
       "state": "Pennsylvania",
       "region": "Mid-Atlantic",
       "city": "Palmerton",
-      "videos": [],
+      "videos": [
+          "This is not a valid youtube link"
+      ],
       "position": {
           "lat": 40.81154170049437,
           "lng": -75.52077819901874
@@ -2797,7 +2799,9 @@ var allData = [
       "state": "Pennsylvania",
       "region": "Mid-Atlantic",
       "city": "Tannersville",
-      "videos": [],
+      "videos": [
+          "This is not a valid youtube link"
+      ],
       "position": {
           "lat": 41.051811334929965,
           "lng": -75.35550284495609
@@ -2899,7 +2903,9 @@ var allData = [
       "state": "Pennsylvania",
       "region": "Mid-Atlantic",
       "city": "Lake Harmony",
-      "videos": [],
+      "videos": [
+          "This is not a valid youtube link"
+      ],
       "position": {
           "lat": 41.050245616180355,
           "lng": -75.601067425094
@@ -3267,7 +3273,9 @@ var allData = [
       "state": "North Carolina",
       "region": "Southeast",
       "city": "Beech Mountain",
-      "videos": [],
+      "videos": [
+          "This is not a valid youtube link"
+      ],
       "position": {
           "lat": 36.195625208901824,
           "lng": -81.87785788527373
@@ -3287,7 +3295,9 @@ var allData = [
       "state": "North Carolina",
       "region": "Southeast",
       "city": "Sugar Mountain",
-      "videos": [],
+      "videos": [
+          "This is not a valid youtube link"
+      ],
       "position": {
           "lat": 36.13369100484302,
           "lng": -81.86734557268886
@@ -5869,7 +5879,9 @@ var allData = [
       "state": "Wisconsin",
       "region": "Midwest",
       "city": "Wilmot",
-      "videos": [],
+      "videos": [
+          "This is not a valid youtube link"
+      ],
       "position": {
           "lat": 42.49939743982259,
           "lng": -88.18774605688819
@@ -6158,7 +6170,9 @@ var allData = [
       "state": "Colorado",
       "region": "Rocky Mountains",
       "city": "Copper Mountain",
-      "videos": [],
+      "videos": [
+          "This is not a valid youtube link"
+      ],
       "position": {
           "lat": 39.50236230347042,
           "lng": -106.14973588840155
@@ -6200,7 +6214,9 @@ var allData = [
       "state": "Colorado",
       "region": "Rocky Mountains",
       "city": "Mount Crested Butte",
-      "videos": [],
+      "videos": [
+          "This is not a valid youtube link"
+      ],
       "position": {
           "lat": 38.89922047595514,
           "lng": -106.96579698841482
@@ -6284,7 +6300,9 @@ var allData = [
       "state": "Colorado",
       "region": "Rocky Mountains",
       "city": "Steamboat Springs",
-      "videos": [],
+      "videos": [
+          "This is not a valid youtube link"
+      ],
       "position": {
           "lat": 40.48357228637695,
           "lng": -106.83796137303607
@@ -6621,7 +6639,9 @@ var allData = [
       "state": "Colorado",
       "region": "Rocky Mountains",
       "city": "Winter Park",
-      "videos": [],
+      "videos": [
+          "This is not a valid youtube link"
+      ],
       "position": {
           "lat": 39.887020291324646,
           "lng": -105.76248800188542
@@ -9388,7 +9408,9 @@ var allData = [
       "state": "Washington",
       "region": "West Coast",
       "city": "near Wenatchee",
-      "videos": [],
+      "videos": [
+          "This is not a valid youtube link"
+      ],
       "position": {
           "lat": 47.29264760136882,
           "lng": -120.39991391704861
