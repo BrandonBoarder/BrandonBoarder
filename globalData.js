@@ -495,7 +495,9 @@ var globalData = [
         "state": "",
         "region": "",
         "city": "",
-        "videos": [],
+        "videos": [
+            "This is not a valid youtube link"
+        ],
         "position": {
             "lat": 50.11308267731076,
             "lng": -122.95376412570478
@@ -6035,7 +6037,9 @@ var globalData = [
         "state": "",
         "region": "",
         "city": "",
-        "videos": [],
+        "videos": [
+            "This is not a valid youtube link"
+        ],
         "position": {
             "lat": 42.872288272668,
             "lng": 140.6705078125
@@ -12795,7 +12799,9 @@ var globalData = [
         "state": "",
         "region": "",
         "city": "",
-        "videos": [],
+        "videos": [
+            "TDXiI1LKEjs"
+        ],
         "position": {
             "lat": 42.90263151691558,
             "lng": 140.73600957870485
@@ -12855,7 +12861,9 @@ var globalData = [
         "state": "",
         "region": "",
         "city": "",
-        "videos": [],
+        "videos": [
+            "This is not a valid youtube link"
+        ],
         "position": {
             "lat": 42.84812882749698,
             "lng": 140.62957457409664
@@ -12895,7 +12903,9 @@ var globalData = [
         "state": "",
         "region": "",
         "city": "",
-        "videos": [],
+        "videos": [
+            "This is not a valid youtube link"
+        ],
         "position": {
             "lat": 42.7104437357484,
             "lng": 140.921630859375
